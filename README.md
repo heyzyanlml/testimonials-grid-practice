@@ -21,7 +21,7 @@ The main focus of this challenge was to:
 
 ## 🌐 Live Demo
 
-Check it out live [here](#g).
+Check it out live here -----> https://heyzyanlml.github.io/testimonials-grid-practice/
 
 ---
 
